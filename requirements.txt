@@ -1,0 +1,23 @@
+# Core AI/LLM
+langchain
+langchain-groq
+langgraph
+groq
+
+# Vector Database
+qdrant-client
+sentence-transformers
+
+# API Framework
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+
+# Database
+supabase
+
+# Utilities
+python-dotenv
+httpx
+loguru
